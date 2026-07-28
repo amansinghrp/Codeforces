@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 6 |
+| 3 | 8 |
 
 ---
 
@@ -16,6 +16,8 @@
 - [combinatorics](#combinatorics) (1)
 - [data structures](#data-structures) (2)
 - [dp](#dp) (1)
+- [greedy](#greedy) (1)
+- [math](#math) (1)
 - [strings](#strings) (1)
 - [trees](#trees) (1)
 
@@ -45,6 +47,18 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/amansinghrp/Codeforces/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/amansinghrp/Codeforces/blob/HEAD/1914/C%20-%20Quests/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/amansinghrp/Codeforces/blob/HEAD/1914/C%20-%20Quests/solution.cpp) |
 
 ### strings
 
