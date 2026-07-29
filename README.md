@@ -6,22 +6,31 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 8 |
+| 4 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [binary search](#binary-search) (1)
 - [brute force](#brute-force) (1)
 - [combinatorics](#combinatorics) (1)
 - [data structures](#data-structures) (2)
-- [dp](#dp) (1)
-- [greedy](#greedy) (1)
+- [dp](#dp) (2)
+- [greedy](#greedy) (2)
 - [math](#math) (1)
+- [sortings](#sortings) (1)
 - [strings](#strings) (1)
 - [trees](#trees) (1)
+- [two pointers](#two-pointers) (1)
 
 ---
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/amansinghrp/Codeforces/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 
 ### brute force
 
@@ -46,12 +55,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/amansinghrp/Codeforces/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/amansinghrp/Codeforces/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/amansinghrp/Codeforces/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/amansinghrp/Codeforces/blob/HEAD/1914/C%20-%20Quests/solution.cpp) |
 
 ### math
@@ -59,6 +70,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/amansinghrp/Codeforces/blob/HEAD/1914/C%20-%20Quests/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/amansinghrp/Codeforces/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 
 ### strings
 
@@ -71,6 +88,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 339D | [Xenia and Bit Operations](https://codeforces.com/contest/339/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/amansinghrp/Codeforces/blob/HEAD/339/D%20-%20Xenia%20and%20Bit%20Operations/solution.cpp) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/amansinghrp/Codeforces/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 
 ---
 
