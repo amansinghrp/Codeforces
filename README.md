@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 11 |
+| 5 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (1)
 - [combinatorics](#combinatorics) (1)
@@ -25,6 +26,12 @@
 - [two pointers](#two-pointers) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/amansinghrp/Codeforces/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.cpp) |
 
 ### binary search
 
